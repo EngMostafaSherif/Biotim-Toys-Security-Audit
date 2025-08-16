@@ -1,3 +1,3 @@
 # Github foundations training
 
-By DataCamp and FreeCodecamp
+By DataCamp and FreeCodecamp!

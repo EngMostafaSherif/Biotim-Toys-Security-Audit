@@ -1,6 +1,5 @@
 # Biotim Toys security audit
 
-[Explanation of this project.md](https://github.com/user-attachments/files/21815582/Explanation.of.this.project.md)
 This project is a small scale security audit of a fictional company called:
 
 

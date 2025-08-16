@@ -1,4 +1,4 @@
-# Biotim Toys security audit
+# Botium Toys security audit
 
 This project is a small scale security audit of a fictional company called:
 

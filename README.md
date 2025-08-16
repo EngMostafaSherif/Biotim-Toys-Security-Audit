@@ -1,4 +1,4 @@
-# Botium Toys security audit
+# Botium Toys security audit project
 
 This project is a small scale security audit of a fictional company called:
 
@@ -19,5 +19,7 @@ This project is a small scale security audit of a fictional company called:
 My task was to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist and finally I gave a couple of recommendations to the company to help strengthen its security posture and comply with laws and regulations. I applied the concepts I learned in preparation for the ISC2 CC exam and the Google cybersecurity course on Coursera.
 
 
+
+The two PDFs provided detail the results of the security audit
 
 This project was made on 16/08/2025

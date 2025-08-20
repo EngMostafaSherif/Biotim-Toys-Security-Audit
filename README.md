@@ -20,6 +20,6 @@ My task was to review the IT manager’s scope, goals, and risk assessment repor
 
 
 
-The two PDFs provided detail the results of the security audit
+The two PDFs provided in detail the results of the security audit
 
 This project was made on 16/08/2025
